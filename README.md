@@ -18,18 +18,18 @@
 ---
 
 ## 📸 Screenshots
-###UI 
-![UI]("UI.png")
+### UI 
+![UI](UI.png)
 
 ### Patient Metrics
-![Patient Metrics]("PatientMetrics.png")
+![Patient Metrics](PatientMetrics.png)
 
 ### Risk Analysis
-![Risk Analysis]("RiskAnalysis.png")
+![Risk Analysis](RiskAnalysis.png)
 
 ### AI Assistant  
-![AI Chatbot]("AI1.png")
-![AI Chatbot]("AI2.png")
+![AI Chatbot](AI1.png)
+![AI Chatbot 2](AI2.png)
 
 ---
 
