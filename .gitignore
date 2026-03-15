@@ -1,0 +1,14 @@
+model/rf_model.joblib
+model/scaler.joblib
+model/feature_names.joblib
+__pycache__/
+*.pyc
+.env
+debug_api.py
+debug_groq.py
+fix_groq.py
+create_main.py
+create_ui_v2.py
+fix_chatbot.py
+create_dockerfile.py
+.env
