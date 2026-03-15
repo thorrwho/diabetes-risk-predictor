@@ -22,7 +22,7 @@
 ![UI]("UI.png")
 
 ### Patient Metrics
-![Patient Metrics]("Patient Metrics.png")
+![Patient Metrics]("PatientMetrics.png")
 
 ### Risk Analysis
 ![Risk Analysis]("RiskAnalysis.png")
