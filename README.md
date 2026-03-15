@@ -18,8 +18,14 @@
 ---
 
 ## 📸 Screenshots
+### Patient Metrics
+![Patient Metrics]("C:\Users\thari\OneDrive\Pictures\Screenshots\Screenshot 2026-03-15 154557.png")
 
-> *Add screenshots of your app here*
+### Risk Analysis
+![Risk Analysis]("C:\Users\thari\OneDrive\Pictures\Screenshots\Screenshot 2026-03-15 154226.png")
+
+### AI Assistant  
+![AI Chatbot]("C:\Users\thari\OneDrive\Pictures\Screenshots\Screenshot 2026-03-15 154245.png")
 
 ---
 
