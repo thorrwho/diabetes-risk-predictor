@@ -1,4 +1,4 @@
-# 🩺 MediPredict — Diabetes Risk Predictor
+# 🩺 MediPredict - Diabetes Risk Predictor
 
 > An end-to-end Machine Learning web application that predicts diabetes risk from patient health metrics, powered by a Random Forest model with a beautiful dark dashboard UI and an AI-powered medical chatbot.
 
